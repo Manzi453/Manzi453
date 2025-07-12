@@ -72,3 +72,6 @@ Here are a few of my highlighted repositories:
 ![Build](https://github.com/Manzi453/Manzi453/actions/workflows/main.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/Manzi453/Manzi453)
 ![Issues](https://img.shields.io/github/issues/Manzi453/Manzi453)
+
+![Build](https://github.com/Manzi453/Manzi453/actions/workflows/main.yml/badge.svg)
+
