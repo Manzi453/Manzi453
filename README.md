@@ -43,8 +43,8 @@
 
 Here are a few of my highlighted repositories:
 - [🔗 alu-system_engineering-devops](https://github.com/Manzi453/alu-system_engineering-devops)
-- [🔗 your-react-project](#)
-- [🔗 i18next-language-switcher](#)
+- [🔗 your-react-project](https://github.com/Manzi453/AgriLink_Tech4Change)
+- [🔗 i18next-language-switcher](https://github.com/Manzi453/AgriLink_Tech4Change)
 - [🔗 DevOps automation script repo](#)
 
 ---
