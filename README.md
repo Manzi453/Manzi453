@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on full-stack web apps and DevOps automation projects  
 - 🌱 I’m learning **React**, **TypeScript**.  
 - 👯 I’m looking to collaborate on **open-source** and **community tech projects**  
-- 💬 Ask me about: `React`, `Node.js`, , `GitHub Actions`  
+- 💬 Ask me about: `React`, `Node.js`,  `GitHub Actions`  
 - ⚡ Fun fact: I love automating things and teaching others how to code faster 🚀  
 
 ---
@@ -35,7 +35,7 @@
 
 - 📧 Email: manziivan@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/manzi-ivan-327597346/)  
-- 🌐 [Portfolio Website](https://manzi453.github.io/Responsive_resume_assignment/indexpg.html) (coming soon!)
+- 🌐 [Portfolio Website](https://manzi453.github.io/Responsive_resume_assignment/indexpg.html) 
 
 ---
 
