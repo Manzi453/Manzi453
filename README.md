@@ -11,7 +11,7 @@
 ## 💡 About Me
 
 - 🔭 I’m currently working on full-stack web apps and DevOps automation projects  
-- 🌱 I’m learning **React**, **TypeScript**.  
+- 🌱 I’m learning **React**, **TypeScript**,**Cybersecurity**.  
 - 👯 I’m looking to collaborate on **open-source** and **community tech projects**  
 - 💬 Ask me about: `React`, `Node.js`,  `GitHub Actions`  
 - ⚡ Fun fact: I love automating things and teaching others how to code faster 🚀  
@@ -67,11 +67,5 @@ Here are a few of my highlighted repositories:
 
 ---
 
-> 🔁 *“Your code is a reflection of how you think — write it with intention.”*
 
-![Build](https://github.com/Manzi453/Manzi453/actions/workflows/main.yml/badge.svg)
-![Last Commit](https://img.shields.io/github/last-commit/Manzi453/Manzi453)
-![Issues](https://img.shields.io/github/issues/Manzi453/Manzi453)
-
-![Build](https://github.com/Manzi453/Manzi453/actions/workflows/main.yml/badge.svg)
 
