@@ -24,10 +24,10 @@
 |------|-------|
 | **Languages** | JavaScript, Python, Shell, HTML/CSS |
 | **Frontend** | React, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js, Django |
-| **Databases** | MongoDB, MySQL |
+| **Backend** | Spring boot, Django |
+| **Databases** | PostgreSQL, MySQL |
 | **DevOps** | Git, GitHub Actions, Linux |
-| **Tools** | VS Code, Postman, Figma, Canva, Vite |
+| **Tools** | VS Code, Postman, Figma, Canva |
 
 ---
 
