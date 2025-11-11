@@ -35,7 +35,7 @@
 
 - 📧 Email: manziivan@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/manzi-ivan-327597346/)  
-- 🌐 [Portfolio Website](https://manzi453.github.io/Responsive_resume_assignment/indexpg.html) 
+- 🌐 [Portfolio Website](https://manzi453.github.io/Responsive_resume_assignment/index.html) 
 
 ---
 
