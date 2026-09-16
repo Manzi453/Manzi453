@@ -14,7 +14,7 @@
 - 🌱 I’m learning **React**, **TypeScript**,**Cybersecurity**.  
 - 👯 I’m looking to collaborate on **open-source** and **community tech projects**  
 - 💬 Ask me about: `React`, `Node.js`,  `GitHub Actions`  
-- ⚡ Fun fact: I love automating things and teaching others how to code faster 🚀  
+-   
 
 ---
 
