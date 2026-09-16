@@ -51,13 +51,10 @@ Here are a few of my highlighted repositories:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manzi453&show_icons=true&theme=radical" alt="github stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manzi453&layout=compact&theme=radical" alt="top languages" />
-</p>
-
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Manzi453&show_icons=true&theme=radical&hide_border=true" alt="Manzi453's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manzi453&layout=compact&theme=radical&hide_border=true" alt="Manzi453's top languages" />
+</div>
 
 ## 🧩 Fun Extras
 
